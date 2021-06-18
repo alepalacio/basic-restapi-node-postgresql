@@ -2,7 +2,7 @@
 ---
 **This is a basic rest api with two endpoints (GET - POST), using Node.JS, Express and a SQL database (POSTGRESQL) by means of ELEPHANTSQL, a Postgresql hosting server.  Also, you can get a free account with some limitations, but very useful to learn and take your first steps.**
 
-This repository was created following these tutorial, what you could find here ---> https://medium.com/dailyjs/node-js-postgresql-tutorial-7a19d945767f
+This repository was created following steps on this tutorial ---> https://medium.com/dailyjs/node-js-postgresql-tutorial-7a19d945767f
 ---
 
 **What is ElephantSQL?**
